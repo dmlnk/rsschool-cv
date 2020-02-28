@@ -5,4 +5,4 @@
 5. -
 6. no
 7. Wroclaw University of Science and Technology - Informatics
-8. 
+8. B2
