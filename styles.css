@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+    /* background-color: aqua; */
+}
+
+.photo_wrapper {
+    display: flex;
+    justify-content: center;
+}
