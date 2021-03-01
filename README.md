@@ -1,1 +1,2 @@
-https://dmlnk.github.io/rsschool-cv/cv
+https://dmlnk.github.io/rsschool-cv/ rsschool-cv
+
